@@ -2,6 +2,10 @@
 
 Welcome to the Movie Recommendation System project! This project aims to provide you with a personalized movie recommendation experience based on various techniques from Natural Language Processing (NLP) and machine learning. By utilizing libraries such as NumPy, Pandas, and Scikit-learn, along with integrating with Streamlit for a user-friendly interface, this system offers an efficient way to discover movies that match your preferences.
 
+
+https://github.com/praveen7512/Movie-Recommendation-System/assets/72389100/d5541eba-4228-479d-a17e-2f2f7f138642
+
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
